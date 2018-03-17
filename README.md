@@ -1,8 +1,10 @@
 # Object-detection
 ## Wine bottle detection
 ### Usage
-First you need to open `codes/CMakeLists.txt` file and change the directory in the `include()` to your dlib directory.  For example:  
+First you need to open `codes/CMakeLists.txt` file and change the directory in the `include()` to your `dlib/cmake` directory.  For example:  
 `include(../dlib/cmake)`
+
+If you don't have dlib you can download from [here](https://github.com/davisking/dlib)
 
 To run the program, you should change your directory to `codes/build` in terminal and use commands below:  
 `$cmake ..`   
