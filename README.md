@@ -1,7 +1,10 @@
 # Object-detection
 ## Wine bottle detection
-### USAGE
-To run the program, in "codes/build" directory you should use commands below:  
+### Usage
+First you need to open `codes/CMakeLists.txt` file and change the directory in the `include()` to your dlib directory.  For example:  
+`include(../dlib/cmake)`
+
+To run the program, you should change your directory to `codes/build` in terminal and use commands below:  
 `$cmake ..`   
 `$make`    
 `$./wine_object_detection sp.dat ../../testing/*.jpg`  
