@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='./training/102db6041a0f23383f82b2da4f0de260.jpg'>
+    <box top='92' left='89' width='148' height='619'>
+	<part name='00' x='134' y='95'/>
+	<part name='01' x='186' y='96'/>
+	<part name='02' x='92' y='312'/>
+	<part name='03' x='229' y='312'/>
+	</box>
+  </image>
+  <image file='./training/140669130.jpg'>
+    <box top='36' left='220' width='44' height='170'>
+	<part name='00' x='234' y='38'/>
+	<part name='01' x='247' y='38'/>
+	<part name='02' x='219' y='107'/>
+	<part name='03' x='263' y='105'/>
+    </box>
+    <box top='41' left='178' width='41' height='159'>
+	<part name='00' x='193' y='43'/>
+	<part name='01' x='206' y='43'/>
+	<part name='02' x='180' y='120'/>
+	<part name='03' x='220' y='117'/>
+    </box>
+  </image>
+  <image file='./training/21988660-Arrangement-with-wine-bottle-and-bred-in-a-fine-dining-restaurant-Stock-Photo.jpg'>
+    <box top='24' left='322' width='179' height='665'>
+	<part name='00' x='380' y='30'/>
+	<part name='01' x='440' y='30'/>
+	<part name='02' x='318' y='316'/>
+	<part name='03' x='504' y='316'/>
+</box>
+  </image>
+  <image file='./training/25602843-Two-Asian-Chinese-Couples-or-friends-or-business-people-toasting-during-dinner-or-lunch-in-a-elegant-Stock-Photo.jpg'>
+    <box top='434' left='1030' width='117' height='399'>
+	<part name='00' x='1063' y='439'/>
+	<part name='01' x='1088' y='440'/>
+	<part name='02' x='1038' y='595'/>
+	<part name='03' x='1029' y='590'/>
+</box>
+  </image>
+  <image file='./training/5-assorted-moldovan-wine-bottles-in-grass-tuscany-2015-20.jpg'>
+    <box top='126' left='1282' width='213' height='783'>
+	<part name='00' x='1340' y='134'/>
+	<part name='01' x='1416' y='132'/>
+	<part name='02' x='1282' y='427'/>
+	<part name='03' x='1482' y='430'/>
+</box>
+    <box top='142' left='90' width='247' height='827'>
+	<part name='00' x='229' y='202'/>
+	<part name='01' x='308' y='210'/>
+	<part name='02' x='136' y='495'/>
+	<part name='03' x='336' y='525'/>
+</box>
+    <box top='140' left='410' width='237' height='823'>
+	<part name='00' x='458' y='174'/>
+	<part name='01' x='534' y='168'/>
+	<part name='02' x='415' y='484'/>
+	<part name='03' x='610' y='472'/>
+</box>
+    <box top='60' left='696' width='237' height='913'>
+	<part name='00' x='822' y='154'/>
+	<part name='01' x='898' y='159'/>
+	<part name='02' x='735' y='457'/>
+	<part name='03' x='936' y='469'/>
+</box>
+    <box top='54' left='912' width='285' height='895'>
+	<part name='00' x='925' y='162'/>
+	<part name='01' x='991' y='148'/>
+	<part name='02' x='922' y='448'/>
+	<part name='03' x='1108' y='420'/>
+</box>
+  </image>
+  <image file='./training/74105769.jpg'>
+    <box top='36' left='448' width='87' height='309'>
+	<part name='00' x='491' y='65'/>
+	<part name='01' x='516' y='66'/>
+	<part name='02' x='456' y='190'/>
+	<part name='03' x='535' y='210'/>
+</box>
+  </image>
+  <image file='./training/8e832365207268e0f719a8bc991a67e1.jpg'>
+    <box top='38' left='912' width='191' height='661'>
+	<part name='00' x='975' y='50'/>
+	<part name='01' x='1029' y='50'/>
+	<part name='02' x='929' y='295'/>
+	<part name='03' x='1086' y='295'/>
+</box>
+  </image>
+  <image file='./training/CH Steak and Wine 12.4.12-1354657187.jpg'>
+    <box top='18' left='36' width='267' height='971'>
+	<part name='00' x='108' y='33'/>
+	<part name='01' x='195' y='32'/>
+	<part name='02' x='30' y='520'/>
+	<part name='03' x='290' y='513'/>
+</box>
+  </image>
+  <image file='./training/French_beaujolais_red_wine_bottle.jpg'>
+    <box top='216' left='756' width='847' height='3007'>
+	<part name='00' x='1032' y='316'/>
+	<part name='01' x='1276' y='308'/>
+	<part name='02' x='788' y='1824'/>
+	<part name='03' x='1552' y='1828'/>
+</box>
+  </image>
+  <image file='./training/Wedding-Day-Decorations-Photo.jpg'>
+    <box top='18' left='104' width='101' height='363'>
+	<part name='00' x='140' y='20'/>
+	<part name='01' x='164' y='20'/>
+	<part name='02' x='104' y='159'/>
+	<part name='03' x='203' y='159'/>
+</box>
+  </image>
+  <image file='./training/c6aedecf91647e9ddd4f1d40aefe0cf1.jpg'>
+    <box top='50' left='166' width='231' height='805'>
+	<part name='00' x='236' y='61'/>
+	<part name='01' x='326' y='62'/>
+	<part name='02' x='166' y='454'/>
+	<part name='03' x='393' y='452'/>
+</box>
+  </image>
+  <image file='./training/c88ec82a5cba8f8a5ba7c92d23b780de.jpg'>
+    <box top='72' left='50' width='121' height='461'>
+	<part name='00' x='92' y='76'/>
+	<part name='01' x='138' y='76'/>
+	<part name='02' x='57' y='239'/>
+	<part name='03' x='174' y='236'/>
+</box>
+  </image>
+  <image file='./training/depositphotos_30228119-stock-photo-wine-bottle-on-wood-floor.jpg'>
+    <box top='70' left='216' width='191' height='859'>
+	<part name='00' x='282' y='81'/>
+	<part name='01' x='349' y='78'/>
+	<part name='02' x='227' y='371'/>
+	<part name='03' x='405' y='373'/>
+</box>
+  </image>
+  <image file='./training/green-sabaii-grass-1l-wine-bottle-holder-500x500.jpg'>
+    <box top='48' left='76' width='61' height='233'>
+	<part name='00' x='96' y='52'/>
+	<part name='01' x='115' y='52'/>
+	<part name='02' x='78' y='146'/>
+	<part name='03' x='132' y='144'/>
+</box>
+  </image>
+  <image file='./training/il_fullxfull.689214231_nkbu.jpg'>
+    <box top='104' left='94' width='241' height='1035'>
+	<part name='00' x='174' y='118'/>
+	<part name='01' x='255' y='118'/>
+	<part name='02' x='97' y='489'/>
+	<part name='03' x='336' y='489'/>
+</box>
+    <box top='106' left='364' width='243' height='1035'>
+	<part name='00' x='443' y='118'/>
+	<part name='01' x='527' y='118'/>
+	<part name='02' x='369' y='489'/>
+	<part name='03' x='604' y='489'/>
+</box>
+    <box top='110' left='632' width='241' height='1027'>
+	<part name='00' x='713' y='118'/>
+	<part name='01' x='793' y='118'/>
+	<part name='02' x='635' y='489'/>
+	<part name='03' x='871' y='489'/>
+</box>
+    <box top='112' left='1172' width='241' height='1027'>
+	<part name='00' x='1248' y='118'/>
+	<part name='01' x='1332' y='118'/>
+	<part name='02' x='1172' y='489'/>
+	<part name='03' x='1412' y='489'/>
+</box>
+    <box top='112' left='902' width='239' height='1025'>
+	<part name='00' x='980' y='118'/>
+	<part name='01' x='1062' y='118'/>
+	<part name='02' x='905' y='489'/>
+	<part name='03' x='1141' y='489'/>
+</box>
+  </image>
+  <image file='./training/images.jpeg'>
+    <box top='86' left='142' width='33' height='96'>
+	<part name='00' x='156' y='87'/>
+	<part name='01' x='165' y='87'/>
+	<part name='02' x='144' y='126'/>
+	<part name='03' x='175' y='128'/>
+</box>
+  </image>
+  <image file='./training/images4.jpeg'>
+    <box top='10' left='122' width='38' height='136'>
+	<part name='00' x='134' y='14'/>
+	<part name='01' x='147' y='13'/>
+	<part name='02' x='127' y='63'/>
+	<part name='03' x='158' y='64'/>
+</box>
+  </image>
+  <image file='./training/love_grass_Single_bottle.jpg'>
+    <box top='32' left='243' width='113' height='462'>
+	<part name='00' x='279' y='37'/>
+	<part name='01' x='319' y='39'/>
+	<part name='02' x='243' y='217'/>
+	<part name='03' x='350' y='216'/>
+</box>
+  </image>
+  <image file='./training/stock-photo-couple-in-love-happy-romantic-smiling-elegant-people-having-dinner-drinking-wine-celebrating-355995932.jpg'>
+    <box top='415' left='40' width='132' height='492'>
+	<part name='00' x='80' y='422'/>
+	<part name='01' x='113' y='421'/>
+	<part name='02' x='48' y='628'/>
+	<part name='03' x='162' y='626'/>
+</box>
+  </image>
+  <image file='./training/stock-photo-young-people-enjoy-dinner-and-wine-tasting-in-the-vineyard-497596810.jpg'>
+    <box top='130' left='254' width='32' height='106'>
+	<part name='00' x='255' y='130'/>
+	<part name='01' x='264' y='129'/>
+	<part name='02' x='254' y='167'/>
+	<part name='03' x='267' y='167'/>
+</box>
+  </image>
+  <image file='./training/wine-bottle-candles-table.jpg'>
+    <box top='43' left='133' width='73' height='277'>
+	<part name='00' x='158' y='44'/>
+	<part name='01' x='184' y='44'/>
+	<part name='02' x='134' y='141'/>
+	<part name='03' x='203' y='141'/>
+</box>
+    <box top='152' left='318' width='36' height='149'>
+	<part name='00' x='328' y='154'/>
+	<part name='01' x='344' y='154'/>
+	<part name='02' x='319' y='204'/>
+	<part name='03' x='354' y='204'/>
+</box>
+    <box top='153' left='357' width='38' height='148'>
+	<part name='00' x='369' y='154'/>
+	<part name='01' x='386' y='154'/>
+	<part name='02' x='360' y='204'/>
+	<part name='03' x='395' y='204'/>
+</box>
+  </image>
+  <image file='./training/wine-pairing-stock.jpg'>
+    <box top='18' left='40' width='74' height='276'>
+	<part name='00' x='67' y='22'/>
+	<part name='01' x='86' y='21'/>
+	<part name='02' x='43' y='123'/>
+	<part name='03' x='113' y='119'/>
+</box>
+  </image>
+  <image file='./training/woodTableWineUpload.png'>
+    <box top='46' left='188' width='157' height='529'>
+	<part name='00' x='224' y='50'/>
+	<part name='01' x='271' y='51'/>
+	<part name='02' x='195' y='263'/>
+	<part name='03' x='322' y='252'/>
+</box>
+  </image>
+  <image file='./training/i1.jpg'>
+    <box top='28' left='89' width='123' height='430'>
+	<part name='00' x='126' y='33'/>
+	<part name='01' x='172' y='32'/>
+	<part name='02' x='92' y='231'/>
+	<part name='03' x='209' y='228'/>
+</box>
+  </image>
+  <image file='./training/i3.jpg'>
+    <box top='122' left='188' width='85' height='309'>
+	<part name='00' x='217' y='128'/>
+	<part name='01' x='243' y='128'/>
+	<part name='02' x='188' y='286'/>
+	<part name='03' x='268' y='286'/>
+</box>
+  </image>
+  <image file='./training/i4.jpg'>
+    <box top='56' left='46' width='57' height='213'>
+	<part name='00' x='61' y='58'/>
+	<part name='01' x='80' y='58'/>
+	<part name='02' x='46' y='137'/>
+	<part name='03' x='99' y='136'/>
+</box>
+    <box top='53' left='261' width='54' height='191'>
+	<part name='00' x='277' y='54'/>
+	<part name='01' x='295' y='54'/>
+	<part name='02' x='262' y='132'/>
+	<part name='03' x='314' y='132'/>
+</box>
+    <box top='42' left='324' width='54' height='208'>
+	<part name='00' x='340' y='44'/>
+	<part name='01' x='358' y='44'/>
+	<part name='02' x='324' y='126'/>
+	<part name='03' x='379' y='126'/>
+</box>
+    <box top='48' left='400' width='57' height='198'>
+	<part name='00' x='416' y='50'/>
+	<part name='01' x='434' y='50'/>
+	<part name='02' x='402' y='124'/>
+	<part name='03' x='452' y='142'/>
+</box>
+    <box top='41' left='462' width='52' height='211'>
+	<part name='00' x='480' y='43'/>
+	<part name='01' x='499' y='43'/>
+	<part name='02' x='464' y='123'/>
+	<part name='03' x='507' y='123'/>
+</box>
+  </image>
+  <image file='./training/i6.jpg'>
+    <box top='112' left='145' width='29' height='116'>
+	<part name='00' x='156' y='114'/>
+	<part name='01' x='166' y='115'/>
+	<part name='02' x='147' y='157'/>
+	<part name='03' x='174' y='155'/>
+</box>
+    <box top='56' left='215' width='66' height='209'>
+	<part name='00' x='226' y='60'/>
+	<part name='01' x='244' y='59'/>
+	<part name='02' x='217' y='142'/>
+	<part name='03' x='270' y='136'/>
+</box>
+    <box top='56' left='283' width='57' height='208'>
+	<part name='00' x='294' y='60'/>
+	<part name='01' x='313' y='58'/>
+	<part name='02' x='282' y='144'/>
+	<part name='03' x='334' y='134'/>
+</box>
+    <box top='55' left='353' width='53' height='206'>
+	<part name='00' x='368' y='57'/>
+	<part name='01' x='388' y='58'/>
+	<part name='02' x='354' y='130'/>
+	<part name='03' x='402' y='126'/>
+</box>
+    <box top='58' left='423' width='55' height='210'>
+	<part name='00' x='444' y='60'/>
+	<part name='01' x='462' y='61'/>
+	<part name='02' x='425' y='142'/>
+	<part name='03' x='477' y='142'/>
+</box>
+    <box top='46' left='489' width='59' height='196'>
+	<part name='00' x='518' y='50'/>
+	<part name='01' x='534' y='50'/>
+	<part name='02' x='498' y='120'/>
+	<part name='03' x='546' y='122'/>
+</box>
+    <box top='0' left='401' width='37' height='146'>
+	<part name='00' x='229' y='202'/>
+	<part name='01' x='308' y='210'/>
+	<part name='02' x='136' y='495'/>
+	<part name='03' x='336' y='525'/>
+</box>
+    <box top='6' left='191' width='35' height='150'>
+	<part name='00' x='195' y='7'/>
+	<part name='01' x='209' y='6'/>
+	<part name='02' x='190' y='67'/>
+	<part name='03' x='225' y='58'/>
+</box>
+    <box top='13' left='264' width='40' height='166'>
+	<part name='00' x='278' y='15'/>
+	<part name='01' x='292' y='14'/>
+	<part name='02' x='269' y='71'/>
+	<part name='03' x='300' y='68'/>
+</box>
+  </image>
+  <image file='./training/i7.jpg'>
+    <box top='76' left='372' width='151' height='613'>
+	<part name='00' x='420' y='87'/>
+	<part name='01' x='471' y='87'/>
+	<part name='02' x='375' y='314'/>
+	<part name='03' x='518' y='314'/>
+</box>
+    <box top='78' left='76' width='183' height='627'>
+	<part name='00' x='120' y='87'/>
+	<part name='01' x='172' y='90'/>
+	<part name='02' x='80' y='417'/>
+	<part name='03' x='244' y='426'/>
+</box>
+    <box top='86' left='204' width='135' height='571'>
+	<part name='00' x='145' y='97'/>
+	<part name='01' x='293' y='95'/>
+	<part name='02' x='209' y='302'/>
+	<part name='03' x='341' y='308'/>
+</box>
+  </image>
+  <image file='./training/i9.jpg'>
+    <box top='130' left='0' width='223' height='837'>
+	<part name='00' x='80' y='142'/>
+	<part name='01' x='152' y='144'/>
+	<part name='02' x='1' y='438'/>
+	<part name='03' x='216' y='423'/>
+</box>
+    <box top='126' left='218' width='203' height='821'>
+	<part name='00' x='287' y='140'/>
+	<part name='01' x='353' y='145'/>
+	<part name='02' x='213' y='442'/>
+	<part name='03' x='425' y='439'/>
+</box>
+    <box top='124' left='414' width='213' height='831'>
+	<part name='00' x='494' y='136'/>
+	<part name='01' x='559' y='138'/>
+	<part name='02' x='422' y='439'/>
+	<part name='03' x='629' y='438'/>
+</box>
+    <box top='116' left='630' width='229' height='837'>
+	<part name='00' x='698' y='126'/>
+	<part name='01' x='763' y='127'/>
+	<part name='02' x='632' y='445'/>
+	<part name='03' x='842' y='436'/>
+</box>
+    <box top='108' left='858' width='211' height='847'>
+	<part name='00' x='914' y='126'/>
+	<part name='01' x='980' y='122'/>
+	<part name='02' x='848' y='424'/>
+	<part name='03' x='1058' y='423'/>
+</box>
+    <box top='102' left='1077' width='226' height='838'>
+	<part name='00' x='1119' y='132'/>
+	<part name='01' x='1193' y='117'/>
+	<part name='02' x='1063' y='415'/>
+	<part name='03' x='1294' y='418'/>
+</box>
+  </image>
+  <image file='./training/b1.jpg'>
+    <box top='14' left='104' width='91' height='321'>
+	<part name='00' x='136' y='18'/>
+	<part name='01' x='162' y='17'/>
+	<part name='02' x='110' y='138'/>
+	<part name='03' x='190' y='140'/>
+</box>
+  </image>
+  <image file='./training/b2.jpg'>
+    <box top='252' left='268' width='253' height='953'>
+	<part name='00' x='148' y='264'/>
+	<part name='01' x='428' y='263'/>
+	<part name='02' x='265' y='749'/>
+	<part name='03' x='519' y='746'/>
+</box>
+  </image>
+  <image file='./training/b3.jpg'>
+    <box top='22' left='472' width='85' height='333'>
+	<part name='00' x='506' y='22'/>
+	<part name='01' x='532' y='24'/>
+	<part name='02' x='480' y='143'/>
+	<part name='03' x='556' y='142'/>
+</box>
+  </image>
+  <image file='./training/b4.jpg'>
+    <box top='30' left='410' width='165' height='713'>
+	<part name='00' x='465' y='40'/>
+	<part name='01' x='523' y='40'/>
+	<part name='02' x='411' y='303'/>
+	<part name='03' x='576' y='303'/>
+</box>
+  </image>
+  <image file='./training/b5.jpg'>
+    <box top='50' left='190' width='323' height='1159'>
+	<part name='00' x='309' y='69'/>
+	<part name='01' x='408' y='69'/>
+	<part name='02' x='204' y='514'/>
+	<part name='03' x='508' y='509'/>
+</box>
+  </image>
+  <image file='./training/b7.jpg'>
+    <box top='30' left='456' width='233' height='839'>
+	<part name='00' x='539' y='61'/>
+	<part name='01' x='528' y='59'/>
+	<part name='02' x='462' y='371'/>
+	<part name='03' x='685' y='375'/>
+</box>
+  </image>
+  <image file='./training/b8.jpg'>
+    <box top='45' left='55' width='172' height='473'>
+	<part name='00' x='91' y='122'/>
+	<part name='01' x='131' y='117'/>
+	<part name='02' x='94' y='268'/>
+	<part name='03' x='92' y='248'/>
+</box>
+    <box top='75' left='185' width='132' height='392'>
+	<part name='00' x='197' y='120'/>
+	<part name='01' x='232' y='116'/>
+	<part name='02' x='189' y='270'/>
+	<part name='03' x='290' y='251'/>
+</box>
+    <box top='79' left='285' width='129' height='406'>
+	<part name='00' x='306' y='120'/>
+	<part name='01' x='343' y='118'/>
+	<part name='02' x='293' y='265'/>
+	<part name='03' x='390' y='260'/>
+</box>
+    <box top='96' left='386' width='115' height='372'>
+	<part name='00' x='414' y='124'/>
+	<part name='01' x='452' y='123'/>
+	<part name='02' x='391' y='264'/>
+	<part name='03' x='491' y='267'/>
+</box>
+    <box top='109' left='493' width='100' height='369'>
+	<part name='00' x='523' y='123'/>
+	<part name='01' x='560' y='122'/>
+	<part name='02' x='493' y='270'/>
+	<part name='03' x='591' y='266'/>
+</box>
+    <box top='111' left='591' width='103' height='365'>
+	<part name='00' x='632' y='126'/>
+	<part name='01' x='669' y='131'/>
+	<part name='02' x='595' y='273'/>
+	<part name='03' x='693' y='278'/>
+</box>
+    <box top='104' left='683' width='113' height='384'>
+	<part name='00' x='743' y='129'/>
+	<part name='01' x='780' y='132'/>
+	<part name='02' x='696' y='276'/>
+	<part name='03' x='796' y='263'/>
+</box>
+    <box top='106' left='784' width='124' height='386'>
+	<part name='00' x='860' y='133'/>
+	<part name='01' x='898' y='136'/>
+	<part name='02' x='801' y='266'/>
+	<part name='03' x='902' y='286'/>
+</box>
+  </image>
+  <image file='./training/b11.jpg'>
+    <box top='468' left='762' width='775' height='2977'>
+	<part name='00' x='1016' y='520'/>
+	<part name='01' x='1032' y='508'/>
+	<part name='02' x='784' y='1548'/>
+	<part name='03' x='1476' y='1536'/>
+</box>
+  </image>
+  <image file='./training/qwertyuı.jpg'>
+    <box top='100' left='164' width='77' height='293'>
+	<part name='00' x='189' y='106'/>
+	<part name='01' x='214' y='105'/>
+	<part name='02' x='165' y='208'/>
+	<part name='03' x='238' y='207'/>
+</box>
+  </image>
+</images>
+</dataset>

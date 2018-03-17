@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='./testing/1478718734201-wine-bottle-green-wine-wood-table-psd-mockup-template-online-generator.jpg'>
+  </image>
+  <image file='./testing/2.jpg433a69b8-665f-4fcb-af68-0406c3755a1fLarger.jpg'>
+  </image>
+  <image file='./testing/20130320-094830.jpg'>
+  </image>
+  <image file='./testing/24871099-Şarap-şişesi-ve-gül-ile-süslenmiş-ahşap-masada-iki-gözlük..jpg'>
+  </image>
+  <image file='./testing/2b3b840e0f45e7e80bf0e85d1229ebc2.jpg'>
+  </image>
+  <image file='./testing/7e2eece08877b796b1927a8052ae22d8.jpg'>
+  </image>
+  <image file='./testing/81OcM1a3AvL._SL1500_.jpg'>
+  </image>
+  <image file='./testing/Weindeko-Wine-Rack-Bottles-Shelf-Wine-Wine-Bottles-843113.jpg'>
+  </image>
+  <image file='./testing/afwfda.jpg'>
+  </image>
+  <image file='./testing/b10.jpg'>
+  </image>
+  <image file='./testing/chic-diy-wine-bottle-table-numbers-4-500x671.jpg'>
+  </image>
+  <image file='./testing/depositphotos_43084099-stock-photo-red-wine-and-cheese-on.jpg'>
+  </image>
+  <image file='./testing/eat-drink-and-be-married-wedding-wine-bottle-centerpiece-vinyl-decal-decorations.jpg'>
+  </image>
+  <image file='./testing/garfish-moscato-australia-white-wine-bottle-table-alcohol-sunset-full-DHJB7W.jpg'>
+  </image>
+  <image file='./testing/images.jpg'>
+  </image>
+  <image file='./testing/page_sarap-icki-kapsamindan-cikarildi_989202588.jpg'>
+  </image>
+  <image file='./testing/vineyard-wedding-style-decor-ideas-wine-bottle-table-numbers.jpg'>
+  </image>
+  <image file='./testing/winetable2-300x2254.jpg'>
+  </image>
+</images>
+</dataset>
