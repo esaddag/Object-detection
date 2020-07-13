@@ -1,4 +1,4 @@
-# Object-detection
+# DLib Object Detection
 ## Wine bottle detection
 ### Usage
 First you need to open `codes/CMakeLists.txt` file and change the directory in the `include()` to your `dlib/cmake` directory.  For example:  
